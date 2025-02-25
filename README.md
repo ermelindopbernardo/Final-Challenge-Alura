@@ -24,8 +24,7 @@ Um simples e divertido sorteador de amigos! Adicione nomes a uma lista e faça u
 ---
 
 ## 🖥️ Demonstração  
-<img src="https://user-images.githubusercontent.com/your-username/demo.gif" width="600"/>  
-*(Adicione um GIF ou print mostrando o projeto em ação!)*  
+<img src="/assets/Capture.PNG" width="600"/>    
 
 ---
 
